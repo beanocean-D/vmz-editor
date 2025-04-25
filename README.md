@@ -1,2 +1,3 @@
 # vmz-editor
-I AM EDITOR
+I AM EDITOR 
+我是新人。
